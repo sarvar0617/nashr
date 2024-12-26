@@ -247,6 +247,8 @@ hr {
   .right-bottom img {
     border-radius: 14px;
     padding-top: 100px;
+    width: 100%;
+    height: auto;
   }
   .left-bottom h1 {
     font-size: 40px;
