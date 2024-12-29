@@ -134,6 +134,7 @@ hr {
   color: var(--main_color);
   border-bottom: 2px solid var(--main_color);
   cursor: pointer;
+ 
 }
 @media (max-width: 480px) {
   .first-section {
