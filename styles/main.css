@@ -209,7 +209,7 @@ hr {
     justify-content: center;
   }
   .heading-part2 {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 700;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -252,10 +252,12 @@ hr {
     height: auto;
   }
   .left-bottom h1 {
-    font-size: 40px;
+    font-size: 25px;
   }
   .left-bottom p {
-    font-size: 16px;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
 
   .bottom-paragraph span {
@@ -396,6 +398,7 @@ text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    width: 100%;
   }
   .right-bottom {
     position: relative;
@@ -407,10 +410,11 @@ text-align: center;
     height: auto;
   }
   .left-bottom h1 {
-    font-size: 40px;
+    font-size: 30px;
   }
   .left-bottom p {
-    font-size: 16px;
+    font-size: 14px;
+  padding: 10px 0;
   }
 
   .bottom-paragraph span {
