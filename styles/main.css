@@ -365,14 +365,22 @@ text-align: center;
     top: 20px;
   }
   .parent-plus {
-    width: 340px;
+    width: 300px;
     height: 245px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    width: 100%;
   }
+ .parent-plus h1{
+  font-size: 20px;
+ }
+ .icon-plus p{
+  font-size: 14px;
+ }
   .content-plus {
     display: flex;
+    width: 100%;
   }
   .heading-part2 {
     font-size: 72px;
